@@ -1,0 +1,5 @@
+Displacement: 360
+
+HP: 210
+
+Prop Dimension: 76.0
