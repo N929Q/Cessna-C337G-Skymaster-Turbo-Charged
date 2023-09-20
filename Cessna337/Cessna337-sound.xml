@@ -450,7 +450,7 @@
         <gear>
             <name>gear</name>
             <mode>in-transit</mode>
-            <path>Sounds/gear.wav</path>
+            <path>Aircraft/Cessna337/Sounds/gear2.wav</path>
             <property>gear/gear[0]/position-norm</property>
             <pitch>
                 <internal>dt_play</internal>
@@ -462,7 +462,7 @@
         </gear>
         <gear>
             <name>gear-lock</name>
-            <path>Sounds/gear-lck.wav</path>
+            <path>Aircraft/Cessna337/Sounds/gear-lck.wav</path>
             <condition>
                 <equals>
                     <property>gear/gear[0]/position-norm</property>
